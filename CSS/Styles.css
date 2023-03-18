@@ -1,0 +1,75 @@
+body{
+    font-family: "montserrat";
+    font-weight: bold;
+    margin: 0;
+}
+img{
+    max-width: 80%; height:auto;
+}
+#title{
+    background-color: darkslategray;
+}
+#TH{
+    font-family: "montserrat";
+    padding-top: 15%;
+    font-weight: bolder;
+}
+.container-fluid{
+    padding: 0 13% 0 0;
+}
+.navbar{
+    padding-bottom: 10%;
+}
+.carousel-item{
+    padding: 2% 20%;
+    height: 100px;
+    text-align: center;
+    font-size: larger;
+}
+h2{
+    font-family: "Montserrat";
+    font-weight: bold;
+    padding-top: 3%;
+    text-align: center;
+    text-decoration: solid;
+}
+#designs{
+    padding: 1% 5%;
+}
+#designs-imgs{
+    padding: 5% 5%;
+}
+.col-lg-4{
+    border: 5px solid white;
+}
+#bottom{
+    padding: 2% 4%;
+    
+    background-color: darkslategray;
+}
+
+#icons{
+    margin-right: 5px;
+}
+#d{
+    text-align: justify;
+}
+#About{
+
+    text-align: left;
+}
+
+#get-in-touch{
+    text-align: right;
+}
+#db{
+text-align: right;
+}
+#SD{
+    max-height: 100%;
+    background-color:darkslategray ;
+    padding: 3% 7%;
+}
+#DI{
+    padding:0 5%
+}
